@@ -1,7 +1,8 @@
-REM CJC sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
-REM DIRINDEX 1\2\6,1\2\7,1\2\8,1\2\9,1\3\10,1\3\11,1\4\12,1\4\13,1\4\14,1\5\15,1\5\16,1\5\17
-REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09,folder10,folder11,folder12,folder13,folder14,folder15,folder16
+CJM sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
+DIRINDEX 1\2\6,1\2\7,1\2\8,1\2\9,1\3\10,1\3\11,1\4\12,1\4\13,1\4\14,1\5\15,1\5\16,1\5\17
+DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09,folder10,folder11,folder12,folder13,folder14,folder15,folder16
 
+#
 1400_0_hatsuon_boin.mp3
 00:00:00 2:cjc029_0001
 00:16:14 6:cjc029_0002
@@ -51,6 +52,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:29:45 6:cjc029_0046
 03:31:67 7:cjc029_0047
 03:38:05 0:
+#
 1400_0_hatsuon_shiin.mp3
 00:00:00 2:cjc029_0048
 00:05:20 8:cjc029_0049
@@ -104,6 +106,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:37:64 8:cjc029_0097
 03:40:13 9:cjc029_0098
 03:46:06 0:
+#
 1400_1_sec01_0001_0016.mp3
 00:00:00 0:
 00:03:27 10:cjc029_0099
@@ -144,6 +147,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:53:39 0:
 00:55:14 11:cjc029_0117
 00:56:37 0:
+#
 1400_1_sec01_0017_0033.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0118
@@ -180,6 +184,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:42:41 0:
 00:44:18 11:cjc029_0134
 00:45:26 0:
+#
 1400_1_sec01_0034_0049.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0135
@@ -216,6 +221,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:42:53 0:
 00:44:28 11:cjc029_0151
 00:45:39 0:
+#
 1400_1_sec01_0050_0066.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0152
@@ -252,6 +258,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:43:29 0:
 00:45:04 11:cjc029_0168
 00:46:35 0:
+#
 1400_1_sec01_0067_0084.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0169
@@ -292,6 +299,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:49:12 0:
 00:50:62 11:cjc029_0187
 00:52:00 0:
+#
 1400_1_sec01_0085_0100.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0188
@@ -328,6 +336,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:43:11 0:
 00:44:60 11:cjc029_0204
 00:45:63 0:
+#
 1400_1_sec02_0101_0115.mp3
 00:00:00 0:
 00:03:27 10:cjc029_0205
@@ -364,6 +373,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:46:43 0:
 00:48:16 11:cjc029_0221
 00:49:39 0:
+#
 1400_1_sec02_0116_0132.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0222
@@ -400,6 +410,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:43:35 0:
 00:45:08 11:cjc029_0238
 00:46:29 0:
+#
 1400_1_sec02_0133_0149.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0239
@@ -438,6 +449,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:46:62 0:
 00:48:40 11:cjc029_0256
 00:49:51 0:
+#
 1400_1_sec02_0150_0165.mp3
 00:00:00 0:
 00:00:21 11:cjc029_0257
@@ -472,6 +484,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:41:69 0:
 00:43:44 11:cjc029_0272
 00:44:65 0:
+#
 1400_1_sec02_0166_0183.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0273
@@ -512,6 +525,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:50:23 0:
 00:52:08 11:cjc029_0291
 00:53:19 0:
+#
 1400_1_sec02_0184_0200.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0292
@@ -550,6 +564,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:47:72 0:
 00:49:47 11:cjc029_0309
 00:50:60 0:
+#
 1400_1_sec03_0201_0215.mp3
 00:00:00 0:
 00:03:25 10:cjc029_0310
@@ -586,6 +601,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:46:07 0:
 00:47:56 11:cjc029_0326
 00:49:04 0:
+#
 1400_1_sec03_0216_0231.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0327
@@ -620,6 +636,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:40:03 0:
 00:41:51 11:cjc029_0342
 00:42:59 0:
+#
 1400_1_sec03_0232_0248.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0343
@@ -658,6 +675,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:45:10 0:
 00:46:62 11:cjc029_0360
 00:47:66 0:
+#
 1400_1_sec03_0249_0265.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0361
@@ -694,6 +712,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:42:68 0:
 00:44:42 11:cjc029_0377
 00:45:47 0:
+#
 1400_1_sec03_0266_0283.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0378
@@ -734,6 +753,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:48:20 0:
 00:49:72 11:cjc029_0396
 00:51:05 0:
+#
 1400_1_sec03_0284_0300.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0397
@@ -772,6 +792,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:46:11 0:
 00:47:62 11:cjc029_0414
 00:49:02 0:
+#
 1400_1_sec04_0301_0316.mp3
 00:00:00 0:
 00:03:25 10:cjc029_0415
@@ -810,6 +831,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:50:39 0:
 00:52:14 11:cjc029_0432
 00:53:37 0:
+#
 1400_1_sec04_0317_0333.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0433
@@ -846,6 +868,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:71 0:
 00:46:45 11:cjc029_0449
 00:47:58 0:
+#
 1400_1_sec04_0334_0349.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0450
@@ -882,6 +905,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:60 0:
 00:46:35 11:cjc029_0466
 00:47:42 0:
+#
 1400_1_sec04_0350_0367.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0467
@@ -920,6 +944,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:48:57 0:
 00:50:33 11:cjc029_0484
 00:51:52 0:
+#
 1400_1_sec04_0368_0384.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0485
@@ -958,6 +983,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:47:50 0:
 00:49:25 11:cjc029_0502
 00:50:42 0:
+#
 1400_1_sec04_0385_0400.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0503
@@ -994,6 +1020,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:14 0:
 00:45:65 11:cjc029_0519
 00:47:15 0:
+#
 1400_1_sec05_0401_0415.mp3
 00:00:00 0:
 00:03:25 10:cjc029_0520
@@ -1030,6 +1057,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:46:19 0:
 00:48:08 11:cjc029_0536
 00:49:10 0:
+#
 1400_1_sec05_0416_0432.mp3
 00:00:00 0:
 00:00:23 11:cjc029_0537
@@ -1066,6 +1094,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:43:35 0:
 00:45:12 11:cjc029_0553
 00:46:23 0:
+#
 1400_1_sec05_0433_0448.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0554
@@ -1102,6 +1131,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:43:39 0:
 00:45:14 11:cjc029_0570
 00:46:25 0:
+#
 1400_1_sec05_0449_0466.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0571
@@ -1140,6 +1170,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:46:72 0:
 00:48:46 11:cjc029_0588
 00:50:03 0:
+#
 1400_1_sec05_0467_0482.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0589
@@ -1176,6 +1207,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:09 0:
 00:45:59 11:cjc029_0605
 00:47:01 0:
+#
 1400_1_sec05_0483_0500.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0606
@@ -1214,6 +1246,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:46:54 0:
 00:48:28 11:cjc029_0623
 00:49:29 0:
+#
 1400_1_sec06_0501_0516.mp3
 00:00:00 0:
 00:03:25 10:cjc029_0624
@@ -1252,6 +1285,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:51:07 0:
 00:52:57 11:cjc029_0641
 00:54:07 0:
+#
 1400_1_sec06_0517_0533.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0642
@@ -1288,6 +1322,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:32 0:
 00:46:07 11:cjc029_0658
 00:47:19 0:
+#
 1400_1_sec06_0534_0549.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0659
@@ -1324,6 +1359,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:05 0:
 00:45:55 11:cjc029_0675
 00:46:64 0:
+#
 1400_1_sec06_0550_0567.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0676
@@ -1362,6 +1398,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:50:39 0:
 00:52:18 11:cjc029_0693
 00:53:35 0:
+#
 1400_1_sec06_0568_0584.mp3
 00:00:00 0:
 00:00:29 11:cjc029_0694
@@ -1400,6 +1437,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:47:36 0:
 00:49:10 11:cjc029_0711
 00:50:31 0:
+#
 1400_1_sec06_0585_0600.mp3
 00:00:00 0:
 00:00:21 11:cjc029_0712
@@ -1434,6 +1472,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:42:37 0:
 00:44:12 11:cjc029_0727
 00:45:43 0:
+#
 1400_1_sec07_0601_0615.mp3
 00:00:00 0:
 00:03:27 10:cjc029_0728
@@ -1472,6 +1511,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:52:26 0:
 00:54:03 11:cjc029_0745
 00:55:12 0:
+#
 1400_1_sec07_0616_0632.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0746
@@ -1508,6 +1548,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:22 0:
 00:45:71 11:cjc029_0762
 00:47:27 0:
+#
 1400_1_sec07_0633_0649.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0763
@@ -1546,6 +1587,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:45:59 0:
 00:47:36 11:cjc029_0780
 00:48:38 0:
+#
 1400_1_sec07_0650_0666.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0781
@@ -1582,6 +1624,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:42 0:
 00:46:19 11:cjc029_0797
 00:47:32 0:
+#
 1400_1_sec07_0667_0683.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0798
@@ -1620,6 +1663,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:47:19 0:
 00:48:69 11:cjc029_0815
 00:50:09 0:
+#
 1400_1_sec07_0684_0700.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0816
@@ -1656,6 +1700,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:05 0:
 00:45:55 11:cjc029_0832
 00:46:62 0:
+#
 1400_1_sec08_0701_0717.mp3
 00:00:00 0:
 00:03:27 10:cjc029_0833
@@ -1696,6 +1741,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:53:29 0:
 00:55:04 11:cjc029_0851
 00:56:18 0:
+#
 1400_1_sec08_0718_0734.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0852
@@ -1732,6 +1778,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:52 0:
 00:46:27 11:cjc029_0868
 00:47:38 0:
+#
 1400_1_sec08_0735_0751.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0869
@@ -1770,6 +1817,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:48:69 0:
 00:50:42 11:cjc029_0886
 00:51:54 0:
+#
 1400_1_sec08_0752_0768.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0887
@@ -1806,6 +1854,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:45:41 0:
 00:47:15 11:cjc029_0903
 00:48:20 0:
+#
 1400_1_sec08_0769_0784.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0904
@@ -1842,6 +1891,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:50 0:
 00:46:23 11:cjc029_0920
 00:47:58 0:
+#
 1400_1_sec08_0785_0800.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0921
@@ -1876,6 +1926,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:42:47 0:
 00:44:22 11:cjc029_0936
 00:45:20 0:
+#
 1400_1_sec09_0801_0816.mp3
 00:00:00 0:
 00:03:25 10:cjc029_0937
@@ -1914,6 +1965,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:48:59 0:
 00:50:35 11:cjc029_0954
 00:51:44 0:
+#
 1400_1_sec09_0817_0832.mp3
 00:00:00 0:
 00:00:19 11:cjc029_0955
@@ -1948,6 +2000,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:40:15 0:
 00:41:67 11:cjc029_0970
 00:43:05 0:
+#
 1400_1_sec09_0833_0849.mp3
 00:00:00 0:
 00:00:17 11:cjc029_0971
@@ -1986,6 +2039,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:46:29 0:
 00:48:04 11:cjc029_0988
 00:49:10 0:
+#
 1400_1_sec09_0850_0867.mp3
 00:00:00 0:
 00:00:21 11:cjc029_0989
@@ -2024,6 +2078,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:46:58 0:
 00:48:32 11:cjc029_1006
 00:49:39 0:
+#
 1400_1_sec09_0868_0884.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1007
@@ -2062,6 +2117,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:46:09 0:
 00:47:60 11:cjc029_1024
 00:48:71 0:
+#
 1400_1_sec09_0885_0900.mp3
 00:00:00 0:
 00:00:19 11:cjc029_1025
@@ -2096,6 +2152,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:40:44 0:
 00:42:18 11:cjc029_1040
 00:43:27 0:
+#
 1400_1_sec10_0901_0915.mp3
 00:00:00 0:
 00:03:27 10:cjc029_1041
@@ -2132,6 +2189,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:47:32 0:
 00:49:12 11:cjc029_1057
 00:50:27 0:
+#
 1400_1_sec10_0916_0932.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1058
@@ -2168,6 +2226,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:73 0:
 00:46:47 11:cjc029_1074
 00:47:58 0:
+#
 1400_1_sec10_0933_0949.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1075
@@ -2206,6 +2265,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:47:66 0:
 00:49:41 11:cjc029_1092
 00:50:50 0:
+#
 1400_1_sec10_0950_0967.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1093
@@ -2244,6 +2304,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:47:09 0:
 00:48:67 11:cjc029_1110
 00:49:69 0:
+#
 1400_1_sec10_0968_0984.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1111
@@ -2282,6 +2343,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:47:54 0:
 00:49:33 11:cjc029_1128
 00:50:50 0:
+#
 1400_1_sec10_0985_1000.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1129
@@ -2316,6 +2378,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:42:37 0:
 00:44:12 11:cjc029_1144
 00:45:16 0:
+#
 1400_1_sec11_1001_1016.mp3
 00:00:00 0:
 00:03:27 10:cjc029_1145
@@ -2354,6 +2417,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:49:06 0:
 00:50:58 11:cjc029_1162
 00:51:67 0:
+#
 1400_1_sec11_1017_1033.mp3
 00:00:00 0:
 00:00:19 11:cjc029_1163
@@ -2390,6 +2454,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:20 0:
 00:45:73 11:cjc029_1179
 00:47:11 0:
+#
 1400_1_sec11_1034_1049.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1180
@@ -2426,6 +2491,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:01 0:
 00:45:53 11:cjc029_1196
 00:46:66 0:
+#
 1400_1_sec11_1050_1065.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1197
@@ -2460,6 +2526,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:42:21 0:
 00:43:70 11:cjc029_1212
 00:45:14 0:
+#
 1400_1_sec11_1066_1083.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1213
@@ -2500,6 +2567,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:50:50 0:
 00:52:22 11:cjc029_1231
 00:53:27 0:
+#
 1400_1_sec11_1084_1100.mp3
 00:00:00 0:
 00:00:19 11:cjc029_1232
@@ -2536,6 +2604,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:12 0:
 00:45:61 11:cjc029_1248
 00:46:68 0:
+#
 1400_1_sec12_1101_1116.mp3
 00:00:00 0:
 00:03:25 10:cjc029_1249
@@ -2576,6 +2645,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:56:43 0:
 00:58:20 11:cjc029_1267
 00:59:38 0:
+#
 1400_1_sec12_1117_1132.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1268
@@ -2610,6 +2680,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:42:31 0:
 00:44:03 11:cjc029_1283
 00:45:35 0:
+#
 1400_1_sec12_1133_1149.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1284
@@ -2648,6 +2719,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:50:13 0:
 00:51:63 11:cjc029_1301
 00:53:37 0:
+#
 1400_1_sec12_1150_1166.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1302
@@ -2684,6 +2756,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:47:09 0:
 00:48:57 11:cjc029_1318
 00:50:09 0:
+#
 1400_1_sec12_1167_1183.mp3
 00:00:00 0:
 00:00:19 11:cjc029_1319
@@ -2722,6 +2795,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:48:22 0:
 00:49:74 11:cjc029_1336
 00:51:20 0:
+#
 1400_1_sec12_1184_1200.mp3
 00:00:00 0:
 00:00:21 11:cjc029_1337
@@ -2758,6 +2832,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:45:71 0:
 00:47:46 11:cjc029_1353
 00:48:38 0:
+#
 1400_1_sec13_1201_1215.mp3
 00:00:00 0:
 00:03:25 10:cjc029_1354
@@ -2794,6 +2869,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:46:23 0:
 00:47:70 11:cjc029_1370
 00:49:02 0:
+#
 1400_1_sec13_1216_1232.mp3
 00:00:00 0:
 00:00:19 11:cjc029_1371
@@ -2830,6 +2906,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:28 0:
 00:46:02 11:cjc029_1387
 00:47:05 0:
+#
 1400_1_sec13_1233_1248.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1388
@@ -2866,6 +2943,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:42:63 0:
 00:44:38 11:cjc029_1404
 00:45:49 0:
+#
 1400_1_sec13_1249_1265.mp3
 00:00:00 0:
 00:00:19 11:cjc029_1405
@@ -2902,6 +2980,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:43:62 0:
 00:45:37 11:cjc029_1421
 00:46:47 0:
+#
 1400_1_sec13_1266_1283.mp3
 00:00:00 0:
 00:00:23 11:cjc029_1422
@@ -2942,6 +3021,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:50:17 0:
 00:51:67 11:cjc029_1440
 00:52:63 0:
+#
 1400_1_sec13_1284_1300.mp3
 00:00:00 0:
 00:00:19 11:cjc029_1441
@@ -2978,6 +3058,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:01 0:
 00:45:51 11:cjc029_1457
 00:46:58 0:
+#
 1400_1_sec14_1301_1315.mp3
 00:00:00 0:
 00:03:25 10:cjc029_1458
@@ -3014,6 +3095,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:47:32 0:
 00:49:04 11:cjc029_1474
 00:50:01 0:
+#
 1400_1_sec14_1316_1331.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1475
@@ -3048,6 +3130,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:16 0:
 00:45:65 11:cjc029_1490
 00:47:40 0:
+#
 1400_1_sec14_1332_1347.mp3
 00:00:00 0:
 00:00:21 11:cjc029_1491
@@ -3084,6 +3167,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:44 0:
 00:46:19 11:cjc029_1507
 00:47:32 0:
+#
 1400_1_sec14_1348_1365.mp3
 00:00:00 0:
 00:00:17 11:cjc029_1508
@@ -3122,6 +3206,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:48:67 0:
 00:50:41 11:cjc029_1525
 00:51:73 0:
+#
 1400_1_sec14_1366_1383.mp3
 00:00:00 0:
 00:00:19 11:cjc029_1526
@@ -3162,6 +3247,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:52:26 0:
 00:53:74 11:cjc029_1544
 00:55:18 0:
+#
 1400_1_sec14_1384_1400.mp3
 00:00:00 0:
 00:00:19 11:cjc029_1545
@@ -3198,6 +3284,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:45:37 0:
 00:47:13 11:cjc029_1561
 00:48:36 0:
+#
 1400_2_sec01_0001_0016.mp3
 00:00:00 0:
 00:03:27 12:cjc029_1562
@@ -3270,6 +3357,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:24:00 0:
 01:24:06 14:cjc029_1596
 01:25:41 0:
+#
 1400_2_sec01_0017_0033.mp3
 00:00:00 0:
 00:00:19 13:cjc029_1597
@@ -3340,6 +3428,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:24:20 0:
 01:24:26 14:cjc029_1630
 01:27:03 0:
+#
 1400_2_sec01_0034_0049.mp3
 00:00:00 0:
 00:00:19 13:cjc029_1631
@@ -3408,6 +3497,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:16:20 0:
 01:16:22 14:cjc029_1663
 01:20:38 0:
+#
 1400_2_sec01_0050_0066.mp3
 00:00:00 0:
 00:00:19 13:cjc029_1664
@@ -3478,6 +3568,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:20:53 0:
 01:20:55 14:cjc029_1697
 01:21:69 0:
+#
 1400_2_sec01_0067_0084.mp3
 00:00:00 0:
 00:00:17 13:cjc029_1698
@@ -3554,6 +3645,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:28:59 0:
 01:28:61 14:cjc029_1734
 01:35:33 0:
+#
 1400_2_sec01_0085_0100.mp3
 00:00:00 0:
 00:00:17 13:cjc029_1735
@@ -3622,6 +3714,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:18:29 0:
 01:18:33 14:cjc029_1767
 01:20:26 0:
+#
 1400_2_sec02_0101_0115.mp3
 00:00:00 0:
 00:03:27 12:cjc029_1768
@@ -3688,6 +3781,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:47 0:
 01:21:55 14:cjc029_1799
 01:23:15 0:
+#
 1400_2_sec02_0116_0132.mp3
 00:00:00 0:
 00:00:19 13:cjc029_1800
@@ -3758,6 +3852,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:18:35 0:
 01:18:41 14:cjc029_1833
 01:19:44 0:
+#
 1400_2_sec02_0133_0149.mp3
 00:00:00 0:
 00:00:17 13:cjc029_1834
@@ -3830,6 +3925,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:69 0:
 01:21:74 14:cjc029_1868
 01:26:15 0:
+#
 1400_2_sec02_0150_0165.mp3
 00:00:00 0:
 00:00:21 13:cjc029_1869
@@ -3896,6 +3992,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:51 0:
 01:13:55 14:cjc029_1900
 01:14:61 0:
+#
 1400_2_sec02_0166_0183.mp3
 00:00:00 0:
 00:00:19 13:cjc029_1901
@@ -3972,6 +4069,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:15:74 0:
 01:16:05 14:cjc029_1937
 01:20:20 0:
+#
 1400_2_sec02_0184_0200.mp3
 00:00:00 0:
 00:00:17 13:cjc029_1938
@@ -4044,6 +4142,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:15:50 0:
 01:15:54 14:cjc029_1972
 01:19:23 0:
+#
 1400_2_sec03_0201_0215.mp3
 00:00:00 0:
 00:03:25 12:cjc029_1973
@@ -4110,6 +4209,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:61 0:
 01:09:65 14:cjc029_2004
 01:12:60 0:
+#
 1400_2_sec03_0216_0231.mp3
 00:00:00 0:
 00:00:19 13:cjc029_2005
@@ -4176,6 +4276,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:30 0:
 01:13:36 14:cjc029_2036
 01:14:57 0:
+#
 1400_2_sec03_0232_0248.mp3
 00:00:00 0:
 00:00:19 13:cjc029_2037
@@ -4248,6 +4349,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:19:52 0:
 01:19:58 14:cjc029_2071
 01:22:03 0:
+#
 1400_2_sec03_0249_0265.mp3
 00:00:00 0:
 00:00:19 13:cjc029_2072
@@ -4318,6 +4420,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:47 0:
 01:21:51 14:cjc029_2105
 01:23:62 0:
+#
 1400_2_sec03_0266_0283.mp3
 00:00:00 0:
 00:00:19 13:cjc029_2106
@@ -4394,6 +4497,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:23:34 0:
 01:23:42 14:cjc029_2142
 01:26:70 0:
+#
 1400_2_sec03_0284_0300.mp3
 00:00:00 0:
 00:00:17 13:cjc029_2143
@@ -4466,6 +4570,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:14:47 0:
 01:14:53 14:cjc029_2177
 01:15:56 0:
+#
 1400_2_sec04_0301_0316.mp3
 00:00:00 0:
 00:03:25 12:cjc029_2178
@@ -4536,6 +4641,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:30:48 0:
 01:30:56 14:cjc029_2211
 01:34:73 0:
+#
 1400_2_sec04_0317_0333.mp3
 00:00:00 0:
 00:00:17 13:cjc029_2212
@@ -4606,6 +4712,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:40 0:
 01:13:44 14:cjc029_2245
 01:14:65 0:
+#
 1400_2_sec04_0334_0349.mp3
 00:00:00 0:
 00:00:19 13:cjc029_2246
@@ -4674,6 +4781,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:44 0:
 01:13:47 14:cjc029_2278
 01:14:70 0:
+#
 1400_2_sec04_0350_0367.mp3
 00:00:00 0:
 00:00:17 13:cjc029_2279
@@ -4748,6 +4856,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:30 0:
 01:13:38 14:cjc029_2314
 01:15:62 0:
+#
 1400_2_sec04_0368_0384.mp3
 00:00:00 0:
 00:00:17 13:cjc029_2315
@@ -4820,6 +4929,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:23:05 0:
 01:23:15 14:cjc029_2349
 01:24:36 0:
+#
 1400_2_sec04_0385_0400.mp3
 00:00:00 0:
 00:00:17 13:cjc029_2350
@@ -4888,6 +4998,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:41 0:
 01:10:49 14:cjc029_2382
 01:11:68 0:
+#
 1400_2_sec05_0401_0415.mp3
 00:00:00 0:
 00:03:25 12:cjc029_2383
@@ -4954,6 +5065,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:15:09 0:
 01:15:13 14:cjc029_2414
 01:19:01 0:
+#
 1400_2_sec05_0416_0432.mp3
 00:00:00 0:
 00:00:23 13:cjc029_2415
@@ -5024,6 +5136,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:51 0:
 01:13:57 14:cjc029_2448
 01:14:61 0:
+#
 1400_2_sec05_0433_0448.mp3
 00:00:00 0:
 00:00:19 13:cjc029_2449
@@ -5092,6 +5205,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:63 0:
 01:09:65 14:cjc029_2481
 01:13:40 0:
+#
 1400_2_sec05_0449_0466.mp3
 00:00:00 0:
 00:00:17 13:cjc029_2482
@@ -5166,6 +5280,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:18:04 0:
 01:18:09 14:cjc029_2517
 01:20:46 0:
+#
 1400_2_sec05_0467_0482.mp3
 00:00:00 0:
 00:00:17 13:cjc029_2518
@@ -5234,6 +5349,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:14:61 0:
 01:14:65 14:cjc029_2550
 01:16:12 0:
+#
 1400_2_sec05_0483_0500.mp3
 00:00:00 0:
 00:00:19 13:cjc029_2551
@@ -5308,6 +5424,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:23 0:
 01:21:27 14:cjc029_2586
 01:23:54 0:
+#
 1400_2_sec06_0501_0516.mp3
 00:00:00 0:
 00:03:25 12:cjc029_2587
@@ -5378,6 +5495,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:23:65 0:
 01:23:69 14:cjc029_2620
 01:26:62 0:
+#
 1400_2_sec06_0517_0533.mp3
 00:00:00 0:
 00:00:19 13:cjc029_2621
@@ -5448,6 +5566,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:14:70 0:
 01:14:74 14:cjc029_2654
 01:16:34 0:
+#
 1400_2_sec06_0534_0549.mp3
 00:00:00 0:
 00:00:17 13:cjc029_2655
@@ -5516,6 +5635,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:63 0:
 01:10:69 14:cjc029_2687
 01:11:72 0:
+#
 1400_2_sec06_0550_0567.mp3
 00:00:00 0:
 00:00:17 13:cjc029_2688
@@ -5590,6 +5710,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:22:17 0:
 01:22:23 14:cjc029_2723
 01:24:36 0:
+#
 1400_2_sec06_0568_0584.mp3
 00:00:00 0:
 00:00:29 13:cjc029_2724
@@ -5662,6 +5783,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:19:48 0:
 01:19:54 14:cjc029_2758
 01:22:09 0:
+#
 1400_2_sec06_0585_0600.mp3
 00:00:00 0:
 00:00:21 13:cjc029_2759
@@ -5728,6 +5850,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:04:43 0:
 01:04:47 14:cjc029_2790
 01:07:21 0:
+#
 1400_2_sec07_0601_0615.mp3
 00:00:00 0:
 00:03:27 12:cjc029_2791
@@ -5796,6 +5919,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:36 0:
 01:09:40 14:cjc029_2823
 01:10:69 0:
+#
 1400_2_sec07_0616_0632.mp3
 00:00:00 0:
 00:00:19 13:cjc029_2824
@@ -5866,6 +5990,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:36 0:
 01:09:40 14:cjc029_2857
 01:11:51 0:
+#
 1400_2_sec07_0633_0649.mp3
 00:00:00 0:
 00:00:19 13:cjc029_2858
@@ -5938,6 +6063,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:26 0:
 01:13:30 14:cjc029_2892
 01:14:19 0:
+#
 1400_2_sec07_0650_0666.mp3
 00:00:00 0:
 00:00:17 13:cjc029_2893
@@ -6008,6 +6134,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:18 0:
 01:10:26 14:cjc029_2926
 01:11:35 0:
+#
 1400_2_sec07_0667_0683.mp3
 00:00:00 0:
 00:00:19 13:cjc029_2927
@@ -6080,6 +6207,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:31 0:
 01:21:35 14:cjc029_2961
 01:24:10 0:
+#
 1400_2_sec07_0684_0700.mp3
 00:00:00 0:
 00:00:19 13:cjc029_2962
@@ -6150,6 +6278,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:57 0:
 01:10:63 14:cjc029_2995
 01:12:11 0:
+#
 1400_2_sec08_0701_0717.mp3
 00:00:00 0:
 00:03:27 12:cjc029_2996
@@ -6224,6 +6353,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:20:16 0:
 01:20:24 14:cjc029_3031
 01:21:35 0:
+#
 1400_2_sec08_0718_0734.mp3
 00:00:00 0:
 00:00:19 13:cjc029_3032
@@ -6294,6 +6424,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:67 0:
 01:10:73 14:cjc029_3065
 01:11:68 0:
+#
 1400_2_sec08_0735_0751.mp3
 00:00:00 0:
 00:00:19 13:cjc029_3066
@@ -6366,6 +6497,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:11:43 0:
 01:11:45 14:cjc029_3100
 01:13:55 0:
+#
 1400_2_sec08_0752_0768.mp3
 00:00:00 0:
 00:00:19 13:cjc029_3101
@@ -6436,6 +6568,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:11:54 0:
 01:11:60 14:cjc029_3134
 01:15:05 0:
+#
 1400_2_sec08_0769_0784.mp3
 00:00:00 0:
 00:00:17 13:cjc029_3135
@@ -6504,6 +6637,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:15:05 0:
 01:15:09 14:cjc029_3167
 01:16:40 0:
+#
 1400_2_sec08_0785_0800.mp3
 00:00:00 0:
 00:00:19 13:cjc029_3168
@@ -6570,6 +6704,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:08 0:
 01:13:24 14:cjc029_3199
 01:16:05 0:
+#
 1400_2_sec09_0801_0816.mp3
 00:00:00 0:
 00:03:25 12:cjc029_3200
@@ -6640,6 +6775,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:12:73 0:
 01:13:02 14:cjc029_3233
 01:15:74 0:
+#
 1400_2_sec09_0817_0832.mp3
 00:00:00 0:
 00:00:19 13:cjc029_3234
@@ -6706,6 +6842,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:43 0:
 01:06:47 14:cjc029_3265
 01:08:74 0:
+#
 1400_2_sec09_0833_0849.mp3
 00:00:00 0:
 00:00:17 13:cjc029_3266
@@ -6778,6 +6915,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:20:30 0:
 01:20:36 14:cjc029_3300
 01:22:33 0:
+#
 1400_2_sec09_0850_0867.mp3
 00:00:00 0:
 00:00:21 13:cjc029_3301
@@ -6852,6 +6990,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:22:44 0:
 01:22:50 14:cjc029_3336
 01:28:49 0:
+#
 1400_2_sec09_0868_0884.mp3
 00:00:00 0:
 00:00:17 13:cjc029_3337
@@ -6924,6 +7063,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:15:68 0:
 01:15:70 14:cjc029_3371
 01:19:74 0:
+#
 1400_2_sec09_0885_0900.mp3
 00:00:00 0:
 00:00:19 13:cjc029_3372
@@ -6990,6 +7130,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:04:64 0:
 01:04:66 14:cjc029_3403
 01:08:58 0:
+#
 1400_2_sec10_0901_0915.mp3
 00:00:00 0:
 00:03:27 12:cjc029_3404
@@ -7056,6 +7197,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:15:29 0:
 01:15:35 14:cjc029_3435
 01:19:27 0:
+#
 1400_2_sec10_0916_0932.mp3
 00:00:00 0:
 00:00:17 13:cjc029_3436
@@ -7126,6 +7268,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:20:46 0:
 01:20:49 14:cjc029_3469
 01:24:43 0:
+#
 1400_2_sec10_0933_0949.mp3
 00:00:00 0:
 00:00:17 13:cjc029_3470
@@ -7198,6 +7341,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:24:08 0:
 01:24:14 14:cjc029_3504
 01:27:04 0:
+#
 1400_2_sec10_0950_0967.mp3
 00:00:00 0:
 00:00:17 13:cjc029_3505
@@ -7272,6 +7416,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:65 0:
 01:13:69 14:cjc029_3540
 01:15:05 0:
+#
 1400_2_sec10_0968_0984.mp3
 00:00:00 0:
 00:00:17 13:cjc029_3541
@@ -7344,6 +7489,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:35 0:
 01:07:41 14:cjc029_3575
 01:10:41 0:
+#
 1400_2_sec10_0985_1000.mp3
 00:00:00 0:
 00:00:17 13:cjc029_3576
@@ -7410,6 +7556,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:14:17 0:
 01:14:19 14:cjc029_3607
 01:18:07 0:
+#
 1400_2_sec11_1001_1016.mp3
 00:00:00 0:
 00:03:27 12:cjc029_3608
@@ -7480,6 +7627,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:16 0:
 01:13:30 14:cjc029_3641
 01:16:11 0:
+#
 1400_2_sec11_1017_1033.mp3
 00:00:00 0:
 00:00:19 13:cjc029_3642
@@ -7550,6 +7698,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:12:30 0:
 01:12:32 14:cjc029_3675
 01:15:54 0:
+#
 1400_2_sec11_1034_1049.mp3
 00:00:00 0:
 00:00:17 13:cjc029_3676
@@ -7618,6 +7767,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:14:12 0:
 01:14:17 14:cjc029_3708
 01:16:40 0:
+#
 1400_2_sec11_1050_1065.mp3
 00:00:00 0:
 00:00:17 13:cjc029_3709
@@ -7684,6 +7834,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:67 0:
 01:06:71 14:cjc029_3740
 01:09:18 0:
+#
 1400_2_sec11_1066_1083.mp3
 00:00:00 0:
 00:00:17 13:cjc029_3741
@@ -7760,6 +7911,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:26:44 0:
 01:26:46 14:cjc029_3777
 01:30:34 0:
+#
 1400_2_sec11_1084_1100.mp3
 00:00:00 0:
 00:00:19 13:cjc029_3778
@@ -7830,6 +7982,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:11:56 0:
 01:11:60 14:cjc029_3811
 01:13:57 0:
+#
 1400_2_sec12_1101_1116.mp3
 00:00:00 0:
 00:03:25 12:cjc029_3812
@@ -7902,6 +8055,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:24:53 0:
 01:24:59 14:cjc029_3846
 01:28:43 0:
+#
 1400_2_sec12_1117_1132.mp3
 00:00:00 0:
 00:00:17 13:cjc029_3847
@@ -7968,6 +8122,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:59 0:
 01:13:67 14:cjc029_3878
 01:15:39 0:
+#
 1400_2_sec12_1133_1149.mp3
 00:00:00 0:
 00:00:17 13:cjc029_3879
@@ -8040,6 +8195,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:24:06 0:
 01:24:08 14:cjc029_3913
 01:26:19 0:
+#
 1400_2_sec12_1150_1166.mp3
 00:00:00 0:
 00:00:17 13:cjc029_3914
@@ -8110,6 +8266,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:55 0:
 01:21:63 14:cjc029_3947
 01:22:66 0:
+#
 1400_2_sec12_1167_1183.mp3
 00:00:00 0:
 00:00:19 13:cjc029_3948
@@ -8182,6 +8339,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:17:57 0:
 01:17:63 14:cjc029_3982
 01:20:65 0:
+#
 1400_2_sec12_1184_1200.mp3
 00:00:00 0:
 00:00:21 13:cjc029_3983
@@ -8252,6 +8410,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:23:46 0:
 01:23:63 14:cjc029_4016
 01:27:06 0:
+#
 1400_2_sec13_1201_1215.mp3
 00:00:00 0:
 00:03:25 12:cjc029_4017
@@ -8318,6 +8477,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:14:57 0:
 01:14:63 14:cjc029_4048
 01:19:11 0:
+#
 1400_2_sec13_1216_1232.mp3
 00:00:00 0:
 00:00:19 13:cjc029_4049
@@ -8388,6 +8548,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:67 0:
 01:10:73 14:cjc029_4082
 01:13:38 0:
+#
 1400_2_sec13_1233_1248.mp3
 00:00:00 0:
 00:00:17 13:cjc029_4083
@@ -8456,6 +8617,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:11:43 0:
 01:11:47 14:cjc029_4115
 01:12:68 0:
+#
 1400_2_sec13_1249_1265.mp3
 00:00:00 0:
 00:00:19 13:cjc029_4116
@@ -8526,6 +8688,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:14:39 0:
 01:14:45 14:cjc029_4149
 01:17:28 0:
+#
 1400_2_sec13_1266_1283.mp3
 00:00:00 0:
 00:00:23 13:cjc029_4150
@@ -8602,6 +8765,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:19:11 0:
 01:19:13 14:cjc029_4186
 01:21:65 0:
+#
 1400_2_sec13_1284_1300.mp3
 00:00:00 0:
 00:00:19 13:cjc029_4187
@@ -8672,6 +8836,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:14:63 0:
 01:14:66 14:cjc029_4220
 01:17:39 0:
+#
 1400_2_sec14_1301_1315.mp3
 00:00:00 0:
 00:03:25 12:cjc029_4221
@@ -8738,6 +8903,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:47 0:
 01:13:51 14:cjc029_4252
 01:15:48 0:
+#
 1400_2_sec14_1316_1331.mp3
 00:00:00 0:
 00:00:17 13:cjc029_4253
@@ -8804,6 +8970,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:72 0:
 01:22:01 14:cjc029_4284
 01:24:04 0:
+#
 1400_2_sec14_1332_1347.mp3
 00:00:00 0:
 00:00:21 13:cjc029_4285
@@ -8872,6 +9039,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:49 0:
 01:13:55 14:cjc029_4317
 01:15:07 0:
+#
 1400_2_sec14_1348_1365.mp3
 00:00:00 0:
 00:00:17 13:cjc029_4318
@@ -8946,6 +9114,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:16:54 0:
 01:16:58 14:cjc029_4353
 01:18:15 0:
+#
 1400_2_sec14_1366_1383.mp3
 00:00:00 0:
 00:00:19 13:cjc029_4354
@@ -9022,6 +9191,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:22:64 0:
 01:22:68 14:cjc029_4390
 01:27:04 0:
+#
 1400_2_sec14_1384_1400.mp3
 00:00:00 0:
 00:00:19 13:cjc029_4391
@@ -9092,6 +9262,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:15:66 0:
 01:15:72 14:cjc029_4424
 01:18:49 0:
+#
 1400_3_sec01_0001_0016.mp3
 00:00:00 0:
 00:00:19 15:cjc029_4425
@@ -9164,6 +9335,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:08 0:
 01:06:12 16:cjc029_4459
 01:07:33 0:
+#
 1400_3_sec01_0017_0033.mp3
 00:00:00 0:
 00:00:15 17:cjc029_4460
@@ -9234,6 +9406,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:03:31 0:
 01:03:37 16:cjc029_4493
 01:04:47 0:
+#
 1400_3_sec01_0034_0049.mp3
 00:00:00 0:
 00:00:15 17:cjc029_4494
@@ -9300,6 +9473,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:54:44 0:
 00:54:50 16:cjc029_4525
 00:55:59 0:
+#
 1400_3_sec01_0050_0066.mp3
 00:00:00 0:
 00:00:15 17:cjc029_4526
@@ -9370,6 +9544,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:55:46 0:
 00:55:51 16:cjc029_4559
 00:57:05 0:
+#
 1400_3_sec01_0067_0084.mp3
 00:00:00 0:
 00:00:15 17:cjc029_4560
@@ -9444,6 +9619,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:57:60 0:
 00:57:64 16:cjc029_4595
 00:59:00 0:
+#
 1400_3_sec01_0085_0100.mp3
 00:00:00 0:
 00:00:15 17:cjc029_4596
@@ -9510,6 +9686,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:69 0:
 00:59:73 16:cjc029_4627
 01:01:01 0:
+#
 1400_3_sec02_0101_0115.mp3
 00:00:00 0:
 00:00:15 15:cjc029_4628
@@ -9574,6 +9751,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:57:23 0:
 00:57:27 16:cjc029_4658
 00:58:48 0:
+#
 1400_3_sec02_0116_0132.mp3
 00:00:00 0:
 00:00:15 17:cjc029_4659
@@ -9644,6 +9822,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:56:55 0:
 00:56:61 16:cjc029_4692
 00:58:03 0:
+#
 1400_3_sec02_0133_0149.mp3
 00:00:00 0:
 00:00:15 17:cjc029_4693
@@ -9714,6 +9893,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:30 0:
 00:59:34 16:cjc029_4726
 01:00:45 0:
+#
 1400_3_sec02_0150_0165.mp3
 00:00:00 0:
 00:00:15 17:cjc029_4727
@@ -9780,6 +9960,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:52:16 0:
 00:52:20 16:cjc029_4758
 00:53:39 0:
+#
 1400_3_sec02_0166_0183.mp3
 00:00:00 0:
 00:00:15 17:cjc029_4759
@@ -9854,6 +10035,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:00:43 0:
 01:00:55 16:cjc029_4794
 01:01:64 0:
+#
 1400_3_sec02_0184_0200.mp3
 00:00:00 0:
 00:00:15 17:cjc029_4795
@@ -9924,6 +10106,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:01:23 0:
 01:01:29 16:cjc029_4828
 01:02:42 0:
+#
 1400_3_sec03_0201_0215.mp3
 00:00:00 0:
 00:00:15 15:cjc029_4829
@@ -9988,6 +10171,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:55:36 0:
 00:55:40 16:cjc029_4859
 00:56:61 0:
+#
 1400_3_sec03_0216_0231.mp3
 00:00:00 0:
 00:00:15 17:cjc029_4860
@@ -10054,6 +10238,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:50:72 0:
 00:51:03 16:cjc029_4891
 00:52:10 0:
+#
 1400_3_sec03_0232_0248.mp3
 00:00:00 0:
 00:00:15 17:cjc029_4892
@@ -10124,6 +10309,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:00:23 0:
 01:00:33 16:cjc029_4925
 01:01:38 0:
+#
 1400_3_sec03_0249_0265.mp3
 00:00:00 0:
 00:00:17 17:cjc029_4926
@@ -10194,6 +10380,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:57:17 0:
 00:57:23 16:cjc029_4959
 00:58:26 0:
+#
 1400_3_sec03_0266_0283.mp3
 00:00:00 0:
 00:00:15 17:cjc029_4960
@@ -10268,6 +10455,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:00:74 0:
 01:01:01 16:cjc029_4995
 01:02:08 0:
+#
 1400_3_sec03_0284_0300.mp3
 00:00:00 0:
 00:00:15 17:cjc029_4996
@@ -10338,6 +10526,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:56:65 0:
 00:56:71 16:cjc029_5029
 00:58:11 0:
+#
 1400_3_sec04_0301_0316.mp3
 00:00:00 0:
 00:00:15 15:cjc029_5030
@@ -10406,6 +10595,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:00:53 0:
 01:00:59 16:cjc029_5062
 01:02:05 0:
+#
 1400_3_sec04_0317_0333.mp3
 00:00:00 0:
 00:00:17 17:cjc029_5063
@@ -10476,6 +10666,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:04:15 0:
 01:04:19 16:cjc029_5096
 01:05:32 0:
+#
 1400_3_sec04_0334_0349.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5097
@@ -10542,6 +10733,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:54:62 0:
 00:54:68 16:cjc029_5128
 00:55:73 0:
+#
 1400_3_sec04_0350_0367.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5129
@@ -10616,6 +10808,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:02:46 0:
 01:02:48 16:cjc029_5164
 01:03:63 0:
+#
 1400_3_sec04_0368_0384.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5165
@@ -10686,6 +10879,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:00:39 0:
 01:00:47 16:cjc029_5198
 01:01:62 0:
+#
 1400_3_sec04_0385_0400.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5199
@@ -10752,6 +10946,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:57:11 0:
 00:57:23 16:cjc029_5230
 00:58:46 0:
+#
 1400_3_sec05_0401_0415.mp3
 00:00:00 0:
 00:00:15 15:cjc029_5231
@@ -10816,6 +11011,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:56:74 0:
 00:57:13 16:cjc029_5261
 00:58:15 0:
+#
 1400_3_sec05_0416_0432.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5262
@@ -10886,6 +11082,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:01:11 0:
 01:01:17 16:cjc029_5295
 01:02:28 0:
+#
 1400_3_sec05_0433_0448.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5296
@@ -10952,6 +11149,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:54:60 0:
 00:54:66 16:cjc029_5327
 00:56:02 0:
+#
 1400_3_sec05_0449_0466.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5328
@@ -11026,6 +11224,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:01:58 0:
 01:01:62 16:cjc029_5363
 01:03:16 0:
+#
 1400_3_sec05_0467_0482.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5364
@@ -11092,6 +11291,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:54:23 0:
 00:54:27 16:cjc029_5395
 00:55:42 0:
+#
 1400_3_sec05_0483_0500.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5396
@@ -11166,6 +11366,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:28 0:
 01:05:30 16:cjc029_5431
 01:06:30 0:
+#
 1400_3_sec06_0501_0516.mp3
 00:00:00 0:
 00:00:15 15:cjc029_5432
@@ -11234,6 +11435,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:32 0:
 00:59:39 16:cjc029_5464
 01:00:62 0:
+#
 1400_3_sec06_0517_0533.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5465
@@ -11304,6 +11506,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:03:00 0:
 01:03:06 16:cjc029_5498
 01:04:17 0:
+#
 1400_3_sec06_0534_0549.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5499
@@ -11370,6 +11573,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:53:49 0:
 00:53:57 16:cjc029_5530
 00:54:62 0:
+#
 1400_3_sec06_0550_0567.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5531
@@ -11444,6 +11648,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:12 0:
 01:07:19 16:cjc029_5566
 01:08:35 0:
+#
 1400_3_sec06_0568_0584.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5567
@@ -11514,6 +11719,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:58:01 0:
 00:58:05 16:cjc029_5600
 00:59:28 0:
+#
 1400_3_sec06_0585_0600.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5601
@@ -11580,6 +11786,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:55:18 0:
 00:55:24 16:cjc029_5632
 00:56:55 0:
+#
 1400_3_sec07_0601_0615.mp3
 00:00:00 0:
 00:00:17 15:cjc029_5633
@@ -11646,6 +11853,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:00:00 0:
 01:00:08 16:cjc029_5664
 01:01:15 0:
+#
 1400_3_sec07_0616_0632.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5665
@@ -11716,6 +11924,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:00:64 0:
 01:00:68 16:cjc029_5698
 01:02:22 0:
+#
 1400_3_sec07_0633_0649.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5699
@@ -11786,6 +11995,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:01:70 0:
 01:02:05 16:cjc029_5732
 01:03:08 0:
+#
 1400_3_sec07_0650_0666.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5733
@@ -11856,6 +12066,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:57:70 0:
 00:58:01 16:cjc029_5766
 00:59:14 0:
+#
 1400_3_sec07_0667_0683.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5767
@@ -11926,6 +12137,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:03:35 0:
 01:03:41 16:cjc029_5800
 01:04:54 0:
+#
 1400_3_sec07_0684_0700.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5801
@@ -11996,6 +12208,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:57:66 0:
 00:57:72 16:cjc029_5834
 00:59:02 0:
+#
 1400_3_sec08_0701_0717.mp3
 00:00:00 0:
 00:00:23 15:cjc029_5835
@@ -12068,6 +12281,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:00:66 0:
 01:00:70 16:cjc029_5869
 01:02:06 0:
+#
 1400_3_sec08_0718_0734.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5870
@@ -12138,6 +12352,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:57:41 0:
 00:57:48 16:cjc029_5903
 00:58:56 0:
+#
 1400_3_sec08_0735_0751.mp3
 00:00:00 0:
 00:00:17 17:cjc029_5904
@@ -12208,6 +12423,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:57:54 0:
 00:57:58 16:cjc029_5937
 00:58:67 0:
+#
 1400_3_sec08_0752_0768.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5938
@@ -12278,6 +12494,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:58:32 0:
 00:58:38 16:cjc029_5971
 00:59:41 0:
+#
 1400_3_sec08_0769_0784.mp3
 00:00:00 0:
 00:00:15 17:cjc029_5972
@@ -12344,6 +12561,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:01:15 0:
 01:01:21 16:cjc029_6003
 01:02:54 0:
+#
 1400_3_sec08_0785_0800.mp3
 00:00:00 0:
 00:00:13 17:cjc029_6004
@@ -12410,6 +12628,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:56:55 0:
 00:56:61 16:cjc029_6035
 00:57:56 0:
+#
 1400_3_sec09_0801_0816.mp3
 00:00:00 0:
 00:00:15 15:cjc029_6036
@@ -12478,6 +12697,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:55:44 0:
 00:55:50 16:cjc029_6068
 00:56:57 0:
+#
 1400_3_sec09_0817_0832.mp3
 00:00:00 0:
 00:00:17 17:cjc029_6069
@@ -12544,6 +12764,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:55:03 0:
 00:55:08 16:cjc029_6100
 00:56:20 0:
+#
 1400_3_sec09_0833_0849.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6101
@@ -12614,6 +12835,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:57:74 0:
 00:58:07 16:cjc029_6134
 00:59:12 0:
+#
 1400_3_sec09_0850_0867.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6135
@@ -12688,6 +12910,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:03:41 0:
 01:03:43 16:cjc029_6170
 01:04:50 0:
+#
 1400_3_sec09_0868_0884.mp3
 00:00:00 0:
 00:00:17 17:cjc029_6171
@@ -12758,6 +12981,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:53:37 0:
 00:53:43 16:cjc029_6204
 00:54:52 0:
+#
 1400_3_sec09_0885_0900.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6205
@@ -12824,6 +13048,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:56:63 0:
 00:56:69 16:cjc029_6236
 00:58:03 0:
+#
 1400_3_sec10_0901_0915.mp3
 00:00:00 0:
 00:00:17 15:cjc029_6237
@@ -12888,6 +13113,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:56:45 0:
 00:56:59 16:cjc029_6267
 00:57:70 0:
+#
 1400_3_sec10_0916_0932.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6268
@@ -12958,6 +13184,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:03:69 0:
 01:04:01 16:cjc029_6301
 01:05:11 0:
+#
 1400_3_sec10_0933_0949.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6302
@@ -13028,6 +13255,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:42 0:
 01:05:48 16:cjc029_6335
 01:06:55 0:
+#
 1400_3_sec10_0950_0967.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6336
@@ -13102,6 +13330,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:08 0:
 00:59:22 16:cjc029_6371
 01:00:25 0:
+#
 1400_3_sec10_0968_0984.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6372
@@ -13172,6 +13401,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:00:33 0:
 01:00:39 16:cjc029_6405
 01:01:52 0:
+#
 1400_3_sec10_0985_1000.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6406
@@ -13238,6 +13468,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:06 0:
 00:59:10 16:cjc029_6437
 01:00:13 0:
+#
 1400_3_sec11_1001_1016.mp3
 00:00:00 0:
 00:00:17 15:cjc029_6438
@@ -13306,6 +13537,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:04:45 0:
 01:04:48 16:cjc029_6470
 01:05:54 0:
+#
 1400_3_sec11_1017_1033.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6471
@@ -13376,6 +13608,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:01:72 0:
 01:02:03 16:cjc029_6504
 01:03:14 0:
+#
 1400_3_sec11_1034_1049.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6505
@@ -13442,6 +13675,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:04 0:
 00:59:10 16:cjc029_6536
 01:00:21 0:
+#
 1400_3_sec11_1050_1065.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6537
@@ -13508,6 +13742,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:55:73 0:
 00:56:06 16:cjc029_6568
 00:57:23 0:
+#
 1400_3_sec11_1066_1083.mp3
 00:00:00 0:
 00:00:17 17:cjc029_6569
@@ -13582,6 +13817,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:26 0:
 01:05:30 16:cjc029_6604
 01:06:34 0:
+#
 1400_3_sec11_1084_1100.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6605
@@ -13652,6 +13888,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:58:66 0:
 00:58:67 16:cjc029_6638
 01:00:02 0:
+#
 1400_3_sec12_1101_1116.mp3
 00:00:00 0:
 00:00:15 15:cjc029_6639
@@ -13722,6 +13959,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:03:45 0:
 01:03:51 16:cjc029_6672
 01:04:64 0:
+#
 1400_3_sec12_1117_1132.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6673
@@ -13788,6 +14026,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:03:04 0:
 01:03:08 16:cjc029_6704
 01:04:37 0:
+#
 1400_3_sec12_1133_1149.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6705
@@ -13858,6 +14097,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:02:38 0:
 01:02:44 16:cjc029_6738
 01:04:13 0:
+#
 1400_3_sec12_1150_1166.mp3
 00:00:00 0:
 00:00:17 17:cjc029_6739
@@ -13928,6 +14168,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:01:03 0:
 01:01:05 16:cjc029_6772
 01:02:30 0:
+#
 1400_3_sec12_1167_1183.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6773
@@ -13998,6 +14239,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:00:45 0:
 01:00:53 16:cjc029_6806
 01:01:70 0:
+#
 1400_3_sec12_1184_1200.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6807
@@ -14068,6 +14310,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:56:08 0:
 00:56:12 16:cjc029_6840
 00:57:01 0:
+#
 1400_3_sec13_1201_1215.mp3
 00:00:00 0:
 00:00:15 15:cjc029_6841
@@ -14132,6 +14375,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:55:34 0:
 00:55:42 16:cjc029_6871
 00:56:47 0:
+#
 1400_3_sec13_1216_1232.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6872
@@ -14202,6 +14446,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:58:22 0:
 00:58:28 16:cjc029_6905
 00:59:32 0:
+#
 1400_3_sec13_1233_1248.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6906
@@ -14268,6 +14513,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:55:71 0:
 00:56:04 16:cjc029_6937
 00:57:13 0:
+#
 1400_3_sec13_1249_1265.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6938
@@ -14338,6 +14584,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:57:52 0:
 00:57:58 16:cjc029_6971
 00:58:66 0:
+#
 1400_3_sec13_1266_1283.mp3
 00:00:00 0:
 00:00:15 17:cjc029_6972
@@ -14412,6 +14659,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:08 0:
 00:59:14 16:cjc029_7007
 01:00:08 0:
+#
 1400_3_sec13_1284_1300.mp3
 00:00:00 0:
 00:00:15 17:cjc029_7008
@@ -14482,6 +14730,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:04:27 0:
 01:04:33 16:cjc029_7041
 01:05:38 0:
+#
 1400_3_sec14_1301_1315.mp3
 00:00:00 0:
 00:00:15 15:cjc029_7042
@@ -14546,6 +14795,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:54:54 0:
 00:54:58 16:cjc029_7072
 00:55:51 0:
+#
 1400_3_sec14_1316_1331.mp3
 00:00:00 0:
 00:00:15 17:cjc029_7073
@@ -14612,6 +14862,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:55 0:
 00:59:61 16:cjc029_7104
 01:01:36 0:
+#
 1400_3_sec14_1332_1347.mp3
 00:00:00 0:
 00:00:15 17:cjc029_7105
@@ -14678,6 +14929,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:24 0:
 00:59:30 16:cjc029_7136
 01:00:43 0:
+#
 1400_3_sec14_1348_1365.mp3
 00:00:00 0:
 00:00:15 17:cjc029_7137
@@ -14752,6 +15004,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:22 0:
 01:06:28 16:cjc029_7172
 01:07:61 0:
+#
 1400_3_sec14_1366_1383.mp3
 00:00:00 0:
 00:00:17 17:cjc029_7173
@@ -14826,6 +15079,7 @@ REM DIRNAME cjc029,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:38 0:
 01:05:42 16:cjc029_7208
 01:06:59 0:
+#
 1400_3_sec14_1384_1400.mp3
 00:00:00 0:
 00:00:15 17:cjc029_7209
